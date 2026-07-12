@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Sistemas`**
 
-Me chamo Rudolfo, tenho 18 anos e sou natural de Santa Catarina. Concluí o ensino médio no Sesi, com curso técnico em Informática. Atualmente, pretendo cursar Análise e Desenvolvimento de Sistemas na UDESC. Gosto bastante de tecnologia e pretendo construir minha carreira na área de desenvolvimento de software.
+Me chamo Rudolfo, tenho 18 anos e sou natural de Santa Catarina. Concluí o ensino médio no Sesi, com curso técnico em Informática. Atualmente, curso Tecnologia em Análise e Desenvolvimento de Sistemas na UDESC. Gosto bastante de tecnologia e pretendo construir minha carreira na área de desenvolvimento de software.
 
 <p align="left">
 
