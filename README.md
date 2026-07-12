@@ -118,7 +118,7 @@ Me chamo Rudolfo, tenho 18 anos e sou natural de Santa Catarina. Concluí o ensi
     style="padding-right: 10px"
     height="200" 
     alt="GitHub Stats" 
-    src="https://github-stats-extended.vercel.app/api/stats?username=RudolfoSehnemCode&show_icons=true&theme=tokyonight&include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=RudolfoSehnemCode&show_icons=true&theme=tokyonight&include_all_commits=true"
  />
  <img 
     style="padding-right: 10px"
