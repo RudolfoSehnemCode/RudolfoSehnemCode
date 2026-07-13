@@ -1,8 +1,8 @@
-## 🐱‍🏍 Rudolfo Sehnem
+##  Oii, Me chamo Rudolfo Sehnem 👋
 
-**`Desenvolvedor de Sistemas`**
+**`Desenvolvedor`**
 
-Me chamo Rudolfo, tenho 18 anos e sou natural de Santa Catarina. Concluí o ensino médio no Sesi, com curso técnico em Informática. Atualmente, curso Tecnologia em Análise e Desenvolvimento de Sistemas na UDESC. Gosto bastante de tecnologia e pretendo construir minha carreira na área de desenvolvimento de software.
+Tenho 18 anos e sou natural de Santa Catarina. Concluí o ensino médio no Sesi, com curso técnico em Informática. Atualmente, curso Tecnologia em Análise e Desenvolvimento de Sistemas na UDESC. Gosto bastante de tecnologia e pretendo construir minha carreira na área de desenvolvimento de software.
 
 <p align="left">
 
