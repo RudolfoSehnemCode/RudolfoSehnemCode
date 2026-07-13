@@ -121,7 +121,7 @@ Tenho 18 anos e sou natural de Santa Catarina. Concluí o ensino médio no Sesi,
 
 <img
   height="200"
-  src="https://ghstats.dev/api/languages?username=RudolfoSehnemCode&theme=tokyonight"
+  src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=RudolfoSehnemCode&layout=compact&theme=tokyonight"
 />
            
 
