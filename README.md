@@ -114,18 +114,15 @@ Tenho 18 anos e sou natural de Santa Catarina. Concluí o ensino médio no Sesi,
  <br/>
 
  ### 📊 Estatísticas
-<img 
-    style="padding-right: 10px"
-    height="200" 
-    alt="GitHub Stats" 
-    src="https://github-stats-extended.vercel.app/api?username=RudolfoSehnemCode&show_icons=true&theme=tokyonight&include_all_commits=true"
- />
- <img 
-    style="padding-right: 10px"
-    height="150" 
-    alt="Top Languages" 
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=RudolfoSehnemCode&theme=tokyonight&layout=compact"
- />
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=RudolfoSehnemCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+/>
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudolfoSehnemCode&layout=compact&theme=tokyonight"
+/>
            
 
 
