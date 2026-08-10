@@ -6,14 +6,6 @@ Tenho 18 anos e sou natural de Santa Catarina. Concluí o ensino médio no Sesi,
 
 <p align="left">
 
-<a href="https://github.com/RudolfoSehnemCode">
-    <img
-        alt="GitHub"
-        title="Meu GitHub"
-        src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    />
-</a>
-
 <a href="https://www.linkedin.com/in/rudolfo-sehnem-27ab663a8">
     <img
         alt="LinkedIn"
