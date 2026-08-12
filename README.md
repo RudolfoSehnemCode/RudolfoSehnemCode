@@ -102,8 +102,6 @@ Tenho 18 anos e sou natural de Santa Catarina. Concluí o ensino médio no Sesi,
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
  />
  
- <br/>
- <br/>
 
  
 
